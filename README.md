@@ -1,3 +1,8 @@
+Install
+=======
+To install you can use the following command:
+``npm install``
+
 Script
 =======
 To launch the script you can use the following command:
